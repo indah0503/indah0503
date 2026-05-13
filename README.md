@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Indah Sekar Ningrum**.\
-Saya seorang **Mahasiswa** di [Universitas Gadjah Mada](https://ugm.ac.id/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/indah-sekar-ningrum/)ku ya.
+Saya seorang **Fresher** dari [Universitas Gadjah Mada](https://ugm.ac.id/).\
+Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/indah-sekar-ningrum/) saya ya.
  
 <p align="left">
 <a href="https://github.com/indah0503">
