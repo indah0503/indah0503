@@ -2,6 +2,7 @@
 Perkenalkan nama saya **Indah Sekar Ningrum**.\
 Saya seorang **Fresher** dari [Universitas Gadjah Mada](https://ugm.ac.id/).\
 Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/indah-sekar-ningrum/) saya ya.
+Look at my portfolio: https://indah0503.github.io/portfolio.
  
 <p align="left">
 <a href="https://github.com/indah0503">
