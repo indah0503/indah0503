@@ -1,8 +1,11 @@
-# Halo semua! 
-Perkenalkan nama saya **Indah Sekar Ningrum**.\
-Saya seorang **Fresher** dari [Universitas Gadjah Mada](https://ugm.ac.id/).\
-Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/indah-sekar-ningrum/) saya ya.\
-Look at my portfolio: https://indah0503.github.io/portfolio.
+# Hi there, I'm Indah Sekar Ningrum! 👋
+
+I am a **System Integration Engineer** and an alumna of **[Universitas Gadjah Mada](https://ugm.ac.id)**. I specialize in connecting disparate systems, optimizing workflows, and building seamless software architectures.
+
+- 🚀 **Focus:** System Integration | API Development | System Architecture
+- 🎓 **Education:** Universitas Gadjah Mada
+- 🌐 **Portfolio:** Explore my projects at [indah0503.github.io/portfolio](https://github.io)
+- 💼 **Let's Connect:** Reach out to me on [LinkedIn](https://linkedin.com)
  
 <p align="left">
 <a href="https://github.com/indah0503">
