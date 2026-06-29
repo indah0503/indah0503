@@ -5,7 +5,7 @@ I am a **System Integration Engineer** and an alumna of **[Universitas Gadjah Ma
 - 🚀 **Focus:** System Integration | API Development | System Architecture
 - 🎓 **Education:** Universitas Gadjah Mada
 - 🌐 **Portfolio:** Explore my projects at [indah0503.github.io/portfolio](https://github.io)
-- 💼 **Let's Connect:** Reach out to me on [LinkedIn](https://linkedin.com)
+- 💼 **Let's Connect:** Reach out to me on [LinkedIn](https://linkedin.com/in/indah-sekar-ningrum)
  
 <p align="left">
 <a href="https://github.com/indah0503">
